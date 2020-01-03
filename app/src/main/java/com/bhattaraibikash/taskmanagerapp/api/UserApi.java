@@ -4,8 +4,6 @@ import com.bhattaraibikash.taskmanagerapp.model.Users;
 import com.bhattaraibikash.taskmanagerapp.serverresponse.ImageResponse;
 import com.bhattaraibikash.taskmanagerapp.serverresponse.SignUpResponse;
 
-import java.util.List;
-
 import okhttp3.MultipartBody;
 import retrofit2.Call;
 import retrofit2.http.Body;
